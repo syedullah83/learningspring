@@ -1,4 +1,4 @@
-package entity;
+package com.safiullah.learningspring.data.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
