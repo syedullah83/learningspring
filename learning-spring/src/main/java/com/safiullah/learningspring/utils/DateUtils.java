@@ -9,7 +9,7 @@ import org.apache.commons.lang3.StringUtils;
 
 public class DateUtils {
 	
-	private static final DateFormat DATE_FORMAT	= new SimpleDateFormat("yyyy-MM-dd");
+	private static final DateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd");
 	
 	public static Date createDateFromDateString(String dateString) {
 		Date date = null;
